@@ -1,0 +1,82 @@
+{
+  "title":"Você seria um heroi ou vilão?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual super poder você escolheria?",
+      "options":[
+        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
+        {"id": 2, "name":"Voar", "alias":"B"},
+        {"id": 3, "name":"Explodir coisas", "alias":"A"},
+        {"id": 4, "name":"Curar feridas", "alias":"B"},
+        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Quem você salvaria primeiro?",
+      "options":[
+        {"id": 1, "name":"Crianças", "alias":"B"},
+        {"id": 2, "name":"Idosos", "alias":"B"},
+        {"id": 3, "name":"Mulheres bonitas", "alias":"A"},
+        {"id": 4, "name":"Mala de dinheiro", "alias":"A"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual a sua maior preocupação ao enfretar outro super ser?",
+      "options":[
+        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
+        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
+        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
+        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual o seu maior foco?",
+      "options":[
+        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
+        {"id": 2, "name":"Salvar a cidade", "alias":"B"},
+        {"id": 3, "name":"A paz mundial", "alias":"B"},
+        {"id": 4, "name":"Dominar o mundo", "alias":"A"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual apelido abaixo você escolheria?",
+      "options":[
+        {"id": 1, "name":"O Terrivel", "alias":"A"},
+        {"id": 2, "name":"O protetor", "alias":"B"},
+        {"id": 3, "name":"O exterminador", "alias":"A"},
+        {"id": 4, "name":"Capitão planeta", "alias":"B"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Com qual dos personagens abaixo você se identifica mais?",
+      "options":[
+        {"id": 1, "name":"Goku", "alias":"B"},
+        {"id": 2, "name":"Kuririn", "alias":"B"},
+        {"id": 3, "name":"Androide 17", "alias":"A"},
+        {"id": 4, "name":"Mestre Kame", "alias":"B"},
+        {"id": 5, "name":"Goku black", "alias":"A"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "Com as 7 esferas do dragão qual seria seu desejo?",
+      "options":[
+        {"id": 1, "name":"Dinheiro, fama e sucesso", "alias":"A"},
+        {"id": 2, "name":"Dominar o mundo", "alias":"A"},
+        {"id": 3, "name":"Ajudar as pessoas", "alias":"B"},
+        {"id": 4, "name":"Pediria desejos infinitos", "alias":"A"},
+        {"id": 5, "name":"Desejaria ser imortal", "alias":"A"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente seria um super vilão!",
+    "B": "Você muito provavelmente seria um super Herói!"
+  }
+}
